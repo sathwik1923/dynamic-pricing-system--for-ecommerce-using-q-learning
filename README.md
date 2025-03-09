@@ -1,4 +1,4 @@
-![Blank diagram (1)](https://github.com/user-attachments/assets/a27118f7-7dc5-4d71-9a7e-18fc899d3a76)# Dynamic Pricing and Inventory Management System  
+ Dynamic Pricing and Inventory Management System  
 
 ## Introduction  
 In today’s competitive market, businesses need to adjust product prices and manage inventory efficiently to maximize profits and customer satisfaction. This project combines **Q-Learning** (a reinforcement learning algorithm) and **Random Forest regression** to create a smart system that dynamically adjusts product prices based on demand and inventory levels.  
