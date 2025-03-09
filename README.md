@@ -41,5 +41,6 @@ The dataset includes key information to drive pricing and inventory decisions:
 - **Customer Rating** – Average customer rating (1–5).  
 - **Competitor Price** – Price set by competitors.  
 - **Max Price** – Maximum allowed selling price.  
-- **Initial Price** – Starting selling price based on cost and margin.  
+- **Initial Price** – Starting selling price based on cost and margin.
+
 
